@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_fogo_g.mk
+    $(LOCAL_DIR)/twrp_fogo.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_fogo-eng
