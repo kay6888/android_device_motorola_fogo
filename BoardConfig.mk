@@ -6,7 +6,7 @@
 #
 #
 
-DEVICE_PATH := "device/motorola/fogo"
+DEVICE_PATH := device/motorola/fogo
 
 # Inherit from motorola sm7375-common
 -include device/motorola/sm7325-common/BoardConfigCommon.mk
