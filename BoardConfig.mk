@@ -10,6 +10,7 @@ DEVICE_PATH := device/motorola/fogo
 
 # Inherit from motorola sm7375-common
 -include device/motorola/sm7325-common/BoardConfigCommon.mk
+-include device_motorola_sm6375-common
 
 # Architecture
 TARGET_ARCH := arm64
