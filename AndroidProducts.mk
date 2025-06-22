@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_fogo.mk
+    $(LOCAL_DIR)/derpfest_fogo.mk
