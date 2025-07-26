@@ -11,10 +11,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from fogos device
 $(call inherit-product, device/motorola/fogo/device.mk)
 
-# Inherit some common Lineage stuff.
-$(call inherit-product, vendor/derpfest/config/common_full_phone.mk)
+# Inherit some common derp stuff.
+$(call inherit-product, vendor/derp/config/common_full_phone.mk)
 
-PRODUCT_NAME := derfest_fogo
+PRODUCT_NAME := derp_fogo
 PRODUCT_DEVICE := fogo
 PRODUCT_MANUFACTURER := motorola
 PRODUCT_BRAND := motorola
